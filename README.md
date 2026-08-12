@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdelmalek Mohamed Anwar
 
-<!--
-**Abdelmalek-Mohamed-30/Abdelmalek-Mohamed-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Cybersecurity Enthusiast | Penetration Testing | Ethical Hacking
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in cybersecurity, penetration testing, and ethical hacking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+- 🔐 Penetration Testing
+- 🐧 Linux
+- 🌐 Networking
+- 🐍 Python
+- 💻 C#
+- ☕ Java
+- 🗄️ SQL
+- 🧪 CTFs & Security Labs
+
+### 🎯 Currently Learning
+
+- Web Application Security
+- Network Security
+- Red Teaming
+- Bug Hunting
+- Privilege Escalation
+
+### 🧪 Platforms
+
+- Hack The Box
+- TryHackMe
+
+### 📂 Projects
+
+Coming soon... 🚀
+
+---
+
+> **"Security is not a product, it's a process."**
